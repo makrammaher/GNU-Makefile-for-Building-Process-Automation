@@ -13,6 +13,16 @@ Using GNU Makefile and Bash Script to automate the building process of any proje
 - Linker Script file must be outside the "Src" Folder named by 'linker_script.ld'
 - Startup code must be in folder called "Startup" outside the "Src" Folder
 
+## **Examples for Folder Structure**
+
+### AVR Folders Structre
+<img src="/img/avr.jpg">
+
+### ARM Folders Structre
+<img src="/img/arm.jpg">
+
+
+
 ## **Examples Projects**
 1. [For AVR-Toolchain](https://github.com/makrammaher/Mastering_Embedded_System_Diploma/tree/master/07_MCU_Interfacing/03_UART_02/02_ATMega32_UART_Driver)
 2. [For ARM-Toolchain](https://github.com/makrammaher/Mastering_Embedded_System_Diploma/tree/master/07_MCU_Interfacing/03_UART_02/01_STM32_UART_Driver)
